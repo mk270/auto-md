@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 60px;
+  background: url(/img/brushed_alu.png) repeat 0 0; }
+
+h1, h2 {
+  text-shadow: 1px 1px 1px #ccc;
+  margin-top: 1em; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel Decorative', Georgia, Times, serif; }
+
+p, div#main {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+  font-size: 1.6rem;
+  line-height: 1.3em; }
+
+#main ul li {
+  margin-top: 0.7em; }
+
+#main ol li {
+  martin-top: 0.7em; }
